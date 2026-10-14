@@ -1,0 +1,4 @@
+Column,Lower Limit,Upper Limit,Outliers Before,Outliers After
+Quantity,-12.5,23.5,56363,0
+UnitPrice,-3.0700000000000003,8.45,37999,0
+TotalPrice,-17.175000000000004,38.62500000000001,42651,30008
