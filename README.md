@@ -43,14 +43,15 @@ Customer_Spending_Analysis/
 ├── notebooks/
 ├── outputs/
 ├── reports/
-├── src/
-│   ├── data_inspection.py
-│   ├── missing_data_analysis.py
-│   ├── numerical_analysis.py
-│   ├── imputation_comparison.py
-│   ├── outlier_analysis.py
-│   ├── feature_engineering.py
-│   └── visualize_data.py
+src/
+├── data_inspection.py
+├── missing_data_analysis.py
+├── numerical_analysis.py
+├── imputation_comparison.py
+├── missing_value_treatment.py
+├── outlier_analysis.py
+├── feature_engineering.py
+└── visualize_data.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
