@@ -5,8 +5,7 @@
 
 Customer Spending Analysis is a data science project focused on data inspection, missing data analysis, imputation comparison, outlier treatment, feature engineering, and data visualization using the Online Retail dataset.
 
-The project demonstrates practical data preprocessing and exploratory data analysis techniques using Python.
-
+Developed as part of my Data Science internship at DecodeLabs, this project demonstrates practical data preprocessing and exploratory data analysis techniques using Python.
 ## Project Objectives
 
 - Analyze missing values in the dataset.
