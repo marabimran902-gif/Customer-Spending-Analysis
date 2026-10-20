@@ -1,6 +1,5 @@
 
-Decodelabs Project 1-Customer Spending Analysis
-
+# **DecodeLabs Project 1 – Customer Spending Analysis**
 ## Project Overview
 
 Customer Spending Analysis is a data science project focused on data inspection, missing data analysis, imputation comparison, outlier treatment, feature engineering, and data visualization using the Online Retail dataset.
