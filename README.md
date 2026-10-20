@@ -1,5 +1,5 @@
 
-#Decodelabs Project 1-Customer Spending Analysis
+Decodelabs Project 1-Customer Spending Analysis
 
 ## Project Overview
 
